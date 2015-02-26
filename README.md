@@ -6,7 +6,7 @@ By wrapping the file input on a div, adding a replacement element to provide the
 
 ## Downloads
 * [Minified](https://raw.github.com/javanto/jquery-fileinput/3.1.0/dist/jquery.fileinput.min.js)
-* [Full version](https://raw.github.com/javanto/jquery-fileinput/3.1.0/dist/jquery.fileinput.min.js)
+* [Full version](https://raw.github.com/javanto/jquery-fileinput/3.1.0/dist/jquery.fileinput.js)
 
 ## Examples
 
